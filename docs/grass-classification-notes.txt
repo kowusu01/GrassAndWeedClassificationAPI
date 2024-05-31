@@ -1,0 +1,32 @@
+grass-weed-classification
+
+SDK Reference: 
+https://docs.microsoft.com/en-us/python/api/overview/azure/ml/?view=azure-ml-py
+https://learn.microsoft.com/en-us/python/api/azure-cognitiveservices-vision-customvision/azure.cognitiveservices.vision.customvision?view=azure-python
+
+
+code
+- set up new project
+- create env with conda
+- add environment and requirements.txt
+- install packages
+
+remove env using conda
+```
+conda remove --name myenv --all
+
+
+
+you are an azure ai developer using python and the SDK
+- you have a model that you have trained and tested, and deployed
+- how do you consume from a client application?
+- what methods are available to consume the model?
+
+
+
+
+in azure portal
+- create resource
+- create storage (blob storage) and associated container
+- upload your data
+  
